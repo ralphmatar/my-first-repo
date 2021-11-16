@@ -6,9 +6,9 @@ I live in the city of Regensburg, in the state of Bayern, in Germany
 ### Reading
 
 Three of my favorit books are:
-	- *Who moved my cheese* by xyz
-	-*Angels and Deamons* by Dab Brown
-	-*Inferno* by Dan Brwon
+- *Who moved my cheese* by xyz
+- *Angels and Deamons* by Dab Brown
+- *Inferno* by Dan Brwon
 
 ### Food
 
